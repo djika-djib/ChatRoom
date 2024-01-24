@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84971538702",
+    "project_id": "chatroom-d03c0",
+    "storage_bucket": "chatroom-d03c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84971538702:android:f8eba3cde678b4812eaf5f",
+        "android_client_info": {
+          "package_name": "com.dtech.chatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84971538702-v8hqkcnnca601cti2fj98bahpfs8jlrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq98otr57YGX9SY6znP52FN3QvozTWQUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84971538702-v8hqkcnnca601cti2fj98bahpfs8jlrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
